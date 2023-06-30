@@ -30,5 +30,5 @@ Model	Scores:
 -   Linear SVC	79.12
 -   Perceptron	78.34
 - 	Support Vector Machines	78.23
-- 	Stochastic Gradient Decent	74.19
+- 	Stochastic Gradient Descent	74.19
 - 	Naive Bayes	72.28
